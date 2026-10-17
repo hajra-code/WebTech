@@ -24,7 +24,7 @@ This website introduces me, highlights my interests, and presents my technical s
 ## 📂 Project Structure
 
 ```text
-Web Technologies/
+WebTech/
 ├── index.html
 └── picture gallery/
     ├── index.html
