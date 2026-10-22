@@ -25,12 +25,7 @@ This website introduces me, highlights my interests, and presents my technical s
 - [Picture Gallery](https://hajra-code.github.io/Picture-Gallery/)
 - [Login and Registration](https://hajra-code.github.io/Login-and-Registration-Forms/)
 - [World Map](https://hajra-code.github.io/World-Map/)
+- [Calculator Interface](https://hajra-code.github.io/Calculator-Interface/)
 
-
-## 🎯 Purpose
-
-This project demonstrates my understanding of basic HTML structure, CSS styling, hyperlinks, and webpage layout.
-
----
 
 **Created by Hajra Bashir** 
