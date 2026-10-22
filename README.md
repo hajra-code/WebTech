@@ -19,13 +19,14 @@ This website introduces me, highlights my interests, and presents my technical s
 
 - HTML
 - CSS
+- Javascript
 
 ## Web Technologies Lab Tasks
 
 - [Picture Gallery](https://hajra-code.github.io/Picture-Gallery/)
 - [Login and Registration](https://hajra-code.github.io/Login-and-Registration-Forms/)
 - [World Map](https://hajra-code.github.io/World-Map/)
-- [Calculator Interface](https://hajra-code.github.io/Calculator-Interface/)
+- [Mobile Calculator](https://hajra-code.github.io/Mobile-Calculator/)
 
 
 **Created by Hajra Bashir** 
